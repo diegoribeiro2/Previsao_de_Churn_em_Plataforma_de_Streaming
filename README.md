@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste projeto, trabalhei com uma plataforma de streaming que enfrenta desafios significativos devido ao alto índice de cancelamentos de assinaturas pelos usuários. A diretoria acredita que é possível prever quais usuários estão mais propensos a deixar a plataforma, permitindo que ações sejam tomadas para reduzir o churn. O objetivo é desenvolver um modelo de classificação que identifique esses usuários com base em seu perfil.
+Neste projeto, simulei uma plataforma de streaming que enfrenta desafios significativos devido ao alto índice de cancelamentos de assinaturas pelos usuários. A diretoria acredita que é possível prever quais usuários estão mais propensos a deixar a plataforma, permitindo que ações sejam tomadas para reduzir o churn. O objetivo é desenvolver um modelo de classificação que identifique esses usuários com base em seu perfil.
 
 ## Dados Utilizados
 
